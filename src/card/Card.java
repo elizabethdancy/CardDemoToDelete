@@ -11,7 +11,6 @@ package card;
  */
 public class Card {
 
-    private String suit;
     /**
      * @param args the command line arguments
      */
